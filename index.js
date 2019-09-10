@@ -1,3 +1,4 @@
+console.log("Hello")
 function btnClick() {
     var x = document.getElementById("show");
     var y = document.getElementById("btn");
